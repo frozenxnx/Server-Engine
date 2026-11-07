@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Model and data caches
+.cache/
+huggingface/
+models/
+
+# Results and logs
+results/*.log
+*.log
+
+# Environment variables
+.env
+
+# Editor / OS
+.vscode/
+.DS_Store
